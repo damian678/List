@@ -1,0 +1,3 @@
+Pojemność: 10
+Rozmiar: 10
+Elementy: 62 61 4 2 16 8 4 2 1 2 
