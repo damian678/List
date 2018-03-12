@@ -92,7 +92,6 @@ public class Lista
 
     public void usunPowtorzenia()
     {
-        int u = 0;
         for (int i = 0; i < rozmiar-1; i++)
         {
             for (int j = i + 1; j < rozmiar; j++)
@@ -103,7 +102,6 @@ public class Lista
                     {
                         liczby[k] = liczby[k + 1];
                     }
-                    u++;
                     rozmiar--;
                     j--;
                 }
